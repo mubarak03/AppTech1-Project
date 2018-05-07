@@ -1,3 +1,14 @@
 body{
   cursor: url('https://s7.postimg.cc/ifd5o44gb/faces_black_panther_1x.png'), auto;
 }
+
+img{
+    height:300px;
+    width:500px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-style: solid;
+    border-color: blue;
+
+}
